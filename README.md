@@ -22,7 +22,7 @@ This project simulates a college network architecture with over **50 nodes**, bu
 
 - Educational simulations
 - Network design practice
-- Wireless networking concepts
+- Wireless networking concepts with passwords
 - Server-hosted services in LAN setups
 
 ## 📸 Screenshots
@@ -31,11 +31,7 @@ This project simulates a college network architecture with over **50 nodes**, bu
 
 
 ## 🚀 Getting Started
+ Open the `.pkt` file in Cisco Packet Tracer.
 
-1. Open the `.pkt` file in Cisco Packet Tracer.
-2. Explore the topology and device configurations.
-3. Modify or expand based on your learning needs!
-
----
 
 📌 **Created by Swathi H Rao** as part of academic exploration on computer networks.
